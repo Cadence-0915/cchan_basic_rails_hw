@@ -1,0 +1,34 @@
+body{
+	background-image: url(tree3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#big{
+	border-radius: 12px;
+	font-size: 17px;
+	margin-left: 25px;
+}
+
+#big a{
+	color: #000;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.big{
+	border-radius: 12px;
+	font-size: 17px;
+	margin: 5px;
+	margin-left: 10px;
+	padding: 5px;
+}
+
+.blank{
+	margin-left: 25px;
+}
+
+h1, p{
+	color: #C9C9C9;
+	margin-left: 25px;
+}

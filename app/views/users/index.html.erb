@@ -1,0 +1,10 @@
+<h1>Users List</h1>
+
+<% @user.each do |user| %>
+<%= user.fname %>
+<%= user.lname %>
+<br>
+<hr>
+<% end %>
+
+<button id="big"><%= link_to 'Click here for new users', signup_path %></button>
